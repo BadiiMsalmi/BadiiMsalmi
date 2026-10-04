@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **[LinkedIn](https://linkedin.com/in/badii-msalmi/) · [Email](mailto:badiimsalmi2@gmail.com)**
 
+- 🌐 Portfolio website : **[Take a look](https://abdelbadii-msalmi.vercel.app)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/BadiiMsalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BadiiMsalmi" height="30" width="40" /></a>
